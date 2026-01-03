@@ -118,7 +118,6 @@ Run the script without arguments to see usage information and the remote folder 
 **Output:**
 ```
 Portano Deployment Script
-Developed by Gudasoft - https://gudasoft.com
 
 Usage: ./deploy.sh [command]
 
